@@ -1,0 +1,34 @@
+* {
+  padding: 4px;
+}
+
+.title {
+    font-weight: 800;
+  }
+  
+.root {
+  border: 1px solid silver; 
+  margin: 2%;
+  background: linear-gradient(210deg, #C882FF 40px, #fff 150px);
+}
+
+.monthly {
+  font-size: 22px;
+  display: inline-block;
+}
+
+.money {
+  font-weight: 900;
+  font-size: 30px;
+}
+
+.price {
+  font-size: 90px;
+  padding: 10px;
+}
+
+.unlimit {
+  font-weight: bold;
+  padding: 0px;
+}
+
